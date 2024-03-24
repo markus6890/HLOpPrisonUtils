@@ -1,0 +1,5 @@
+mines:
+  test:
+    name: "test"
+    blocks:
+    expgain: 1

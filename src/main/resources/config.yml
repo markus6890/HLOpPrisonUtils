@@ -1,0 +1,18 @@
+pickaxe:
+  1:
+    name: "§cPickaxe §7Lvl %lvl%"
+    lore: "level 1 til 10"
+    material: "WOODEN_PICKAXE"
+    digSpeed: 10
+
+  10:
+    name: "§bPickaxe §7Lvl %lvl%"
+    lore: "level 10 til 25"
+    material: "STONE_PICKAXE"
+    digSpeed: 15
+
+  25:
+    name: "§aPickaxe §7Lvl %lvl%"
+    lore: "level 25 til 50"
+    material: "IRON_PICKAXE"
+    digSpeed: 20

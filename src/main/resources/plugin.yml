@@ -1,0 +1,27 @@
+main: com.gmail.markushygedombrowski.OpPrisonUtils
+version: "1.0"
+api-version: 1.18
+name: "OpPrison-Utils"
+softdepend: [HeadDatabase, WorldGuard]
+commands:
+  warp:
+    aliases: ["setwarp"]
+    description: "warps"
+  tp:
+    aliases: ["tphere"]
+    description: "tp"
+  utilsreload:
+    description: "reload command"
+  gamemode:
+    aliases: ["gm"]
+    description: "change gamemode"
+  adminpickaxe:
+    description: "admincommand for pickaxe level up"
+  sell:
+    description: "sell command"
+    aliases: ["addsell"]
+  bal:
+    description: "balance of players"
+  createmine:
+    aliases: ["replacemine"]
+    description: "create mine"
